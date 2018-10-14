@@ -1,5 +1,5 @@
 this is my entry to the 4th alakajam game jam.
-i used java and lick2d with my framework to create it.
+i used java and slick2d with my framework to create it.
 its a game that supports mac and linux too all you need is java.
 ![gif 1](https://github.com/yoel123/alakajam4-avoider-game-java-slick2d/blob/master/gifs/alakajam41.gif?raw=true)
 ![gif 2](https://github.com/yoel123/alakajam4-avoider-game-java-slick2d/blob/master/gifs/alakajam42.gif?raw=true)
